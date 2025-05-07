@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(237, 233, 233)
+
+}
+header{
+    background-color: #ffffff;
+    color: rgb(247, 247, 247);
+    padding: 12px 30px;
+    text-align: center;
+    justify-content: center;
+}
+.centered-content {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
